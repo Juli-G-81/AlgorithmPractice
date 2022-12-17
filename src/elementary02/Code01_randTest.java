@@ -1,7 +1,7 @@
 package elementary02;
 
 /**
- * @PROJECT:
+ * @PROJECT: 使用Math.random()方法得到x的平方、三次方
  * @DESCRIPTION:
  * @USER: Elizabeth
  * @DATE: 2022/12/17 12:15
@@ -45,6 +45,35 @@ public class Code01_randTest {
             System.out.println(i + "这个数出现了" + counts[i] + "次");
         }
 
+        System.out.println("+=============+");
 
+        count =0;
+        double x = 0.7;
+
+        for (int i = 0; i < testTime; i++) {
+            if(squareOfx() < x)
+            count++;
+        }
+        System.out.println((double)count / (double)testTime);
+        System.out.println(Math.pow(x, 2));
+
+        System.out.println("+=============+");
+
+
+        count =0;
+        for (int i = 0; i < testTime; i++) {
+            if(cubeOfx() < x)
+                count++;
+        }
+        System.out.println((double)count / (double)testTime);
+        System.out.println(Math.pow(x, 3));
+
+    }
+    public static double squareOfx(){
+        return Math.max(Math.random(), Math.random());
+    }
+
+    public static double cubeOfx(){
+        return Math.max(Math.random(), Math.max(Math.random(),Math.random()));
     }
 }
