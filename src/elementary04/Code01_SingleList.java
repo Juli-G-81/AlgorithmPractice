@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @PROJECT: 单链表
+ * @PROJECT: 单链表的构建、反转、测试
  * @DESCRIPTION:
  * @USER: Elizabeth
  * @DATE: 2023/1/29 15:56
