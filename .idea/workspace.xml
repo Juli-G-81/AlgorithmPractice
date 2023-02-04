@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad13a23-7011-4bc3-b17b-3b3241644ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/class04/Code01_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04/Code02_LinkedListToQueueAndStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04/Code03_DoubleLinkedListToDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04/Code04_ReverseNodesInKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04/Code05_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class04/Code06_MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary04/Code01_SingleList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/META-INF/AlgorithmPractice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code01_PrintBinary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code02_SumOfFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code03_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code04_SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code05_BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class01/Code06_InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code01_PreSum$RangeSum1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code01_PreSum$RangeSum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code01_PreSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code02_RandToRand$RandomBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code02_RandToRand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code03_Comp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code03_EqualProbabilityRandom$RandomBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class02/Code03_EqualProbabilityRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code01_BSExist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code02_BSNearLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code03_BSNearRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code04_BSAwesome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code05_HashMapTreeMap$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/class03/Code05_HashMapTreeMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary01/Code01_selectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary01/Code02_bubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary01/Code03_insertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary02/Code01_randTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary02/Code02_rand2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary03/Code01_BS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary03/Code02_BSLeft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/elementary03/Code03_localMinimum.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,9 +17,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/elementary03/Code03_localMinimum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/elementary04/Code01_SingleList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/class04/Code01_ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-902">
+              <caret line="140" column="49" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -67,8 +59,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>vcs.xml</find>
       <find>R</find>
+      <find>vcs.xml</find>
+      <find>testReverseLinkedList</find>
+      <find>generateRandomLinkedList</find>
+      <find>getLinkedListOriginOrder</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -100,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/elementary03/Code03_localMinimum.java" />
         <option value="$PROJECT_DIR$/src/class02/src/elementary02/Code01_randTest.java" />
         <option value="$PROJECT_DIR$/src/src/elementary02/Code01_randTest.java" />
+        <option value="$PROJECT_DIR$/src/elementary04/Code01_SingleList.java" />
       </list>
     </option>
   </component>
@@ -176,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code02_BSLeft">
+  <component name="RunManager" selected="Application.Code01_SingleList">
     <configuration name="Code01_BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="elementary03.Code01_BS" />
       <module name="AlgorithmPractice" />
@@ -190,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_randTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary02.Code01_randTest" />
+    <configuration name="Code01_SingleList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elementary04.Code01_SingleList" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary02.*" />
+          <option name="PATTERN" value="elementary04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code01_randTest" />
       <item itemvalue="Application.Code02_rand2" />
       <item itemvalue="Application.Code03_equalReturn" />
       <item itemvalue="Application.Code01_BSNearLeft" />
       <item itemvalue="Application.Code02_BSLeft" />
+      <item itemvalue="Application.Code01_SingleList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_SingleList" />
         <item itemvalue="Application.Code02_BSLeft" />
         <item itemvalue="Application.Code01_BSNearLeft" />
         <item itemvalue="Application.Code03_equalReturn" />
         <item itemvalue="Application.Code02_rand2" />
-        <item itemvalue="Application.Code01_randTest" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +266,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671261590484</updated>
       <workItem from="1671261593312" duration="3321000" />
-      <workItem from="1671265429739" duration="18497000" />
+      <workItem from="1671265429739" duration="21549000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1671262163392</created>
@@ -286,11 +282,18 @@
       <option name="project" value="LOCAL" />
       <updated>1671296196516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Code of elementary part from teacher zuo.">
+      <created>1674978885679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674978885679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21818000" />
+    <option name="totallyTimeSpent" value="24870000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,8 +306,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1548" height="924" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,7 +317,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32830188" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3274559" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,7 +348,8 @@
     </ignored-roots>
     <MESSAGE value="first test" />
     <MESSAGE value="random and Binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="random and Binary search" />
+    <MESSAGE value="Code of elementary part from teacher zuo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Code of elementary part from teacher zuo." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -470,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/elementary03/Code03_localMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/class02/src/class02/Code01_PreSum.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -541,8 +539,46 @@
     <entry file="file://$PROJECT_DIR$/src/src/elementary02/Code01_randTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class04/Code01_ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/class05/Code01_BitMap1.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class06/ShowComparator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class07/Code03_PathSum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class08/Code01_GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elementary03/Code03_localMinimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class04/Code01_ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902">
+          <caret line="140" column="49" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elementary04/Code01_SingleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
