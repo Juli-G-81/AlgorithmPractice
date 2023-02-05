@@ -18,11 +18,11 @@ public class Code05_AddTwoNumbers {
 		}
 	}
 
-	public static ListNode addTwoNumbers(ListNode head1, ListNode head2) {
-		int len1 = listLength(head1);
-		int len2 = listLength(head2);
-		ListNode l = len1 >= len2 ? head1 : head2;
-		ListNode s = l == head1 ? head2 : head1;
+	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+		int len1 = listLength(l1);
+		int len2 = listLength(l2);
+		ListNode l = len1 >= len2 ? l1 : l2;
+		ListNode s = l == l1 ? l2 : l1;
 		ListNode curL = l;
 		ListNode curS = s;
 		ListNode last = curL;

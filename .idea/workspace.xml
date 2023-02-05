@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ad13a23-7011-4bc3-b17b-3b3241644ab8" name="Default Changelist" comment="first test">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ad13a23-7011-4bc3-b17b-3b3241644ab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/elementary04/Code06_AddTwoNumList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class04/Code05_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class04/Code05_AddTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,17 +31,25 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Never" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Juli" />
       </list>
     </option>
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
-      <GitPushTagMode />
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
-    <option name="UPDATE_BRANCHES_INFO" value="false" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fromMyMac" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,20 +128,7 @@
       <recent name="C:\Users\Elizabeth\JavaProjects\AlgorithmPractice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_BSLeft">
-    <configuration name="Code01_BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary03.Code01_BS" />
-      <module name="AlgorithmPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elementary03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code06_AddTwoNumList">
     <configuration name="Code01_randTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="elementary02.Code01_randTest" />
       <module name="AlgorithmPractice" />
@@ -185,20 +181,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code06_AddTwoNumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elementary04.Code06_AddTwoNumList" />
+      <module name="AlgorithmPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elementary04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Code01_BS" />
       <item itemvalue="Application.Code01_randTest" />
       <item itemvalue="Application.Code02_rand2" />
       <item itemvalue="Application.Code03_equalReturn" />
       <item itemvalue="Application.Code02_BSLeft" />
+      <item itemvalue="Application.Code06_AddTwoNumList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code06_AddTwoNumList" />
         <item itemvalue="Application.Code02_BSLeft" />
         <item itemvalue="Application.Code03_equalReturn" />
         <item itemvalue="Application.Code02_rand2" />
         <item itemvalue="Application.Code01_randTest" />
-        <item itemvalue="Application.Code01_BS" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +225,7 @@
       <workItem from="1671261593312" duration="3321000" />
       <workItem from="1671265429739" duration="17080000" />
       <workItem from="1675567747548" duration="121000" />
-      <workItem from="1675567896485" duration="978000" />
+      <workItem from="1675567896485" duration="4319000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1671262163392</created>
@@ -225,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671262163392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test for mac">
+      <created>1675602935173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675602935173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -283,7 +299,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="first test" />
+    <MESSAGE value="test for mac" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for mac" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
