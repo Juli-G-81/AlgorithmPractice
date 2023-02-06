@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad13a23-7011-4bc3-b17b-3b3241644ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/elementary05/Code01_BitMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elementary05/Code02_BitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary06/Code01_MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary06/Code02_BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary06/Code03_SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary06/Code04_SymmetricTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class05/Code03_BitAddMinusMultiDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/Code03_BitAddMinusMultiDiv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +130,7 @@
       <recent name="C:\Users\Elizabeth\JavaProjects\AlgorithmPractice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code02_BitOperation">
+  <component name="RunManager" selected="Application.Code02_BinaryTree">
     <configuration name="Code01_BitMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="elementary05.Code01_BitMap" />
       <module name="AlgorithmPractice" />
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code01_BitMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05.Code01_BitMap1" />
+    <configuration name="Code02_BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elementary06.Code02_BinaryTree" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class05.*" />
+          <option name="PATTERN" value="elementary06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,17 +199,17 @@
     <list>
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Code01_BitMap" />
-      <item itemvalue="Application.Code01_BitMap1" />
       <item itemvalue="Application.Code02_BitOperation" />
       <item itemvalue="Application.Code03_BitAddMinusMultiDiv" />
+      <item itemvalue="Application.Code02_BinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02_BinaryTree" />
         <item itemvalue="Application.Code02_BitOperation" />
         <item itemvalue="Application.Code03_BitAddMinusMultiDiv" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Code01_BitMap" />
-        <item itemvalue="Application.Code01_BitMap1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,7 @@
       <workItem from="1671261593312" duration="3321000" />
       <workItem from="1671265429739" duration="17080000" />
       <workItem from="1675567747548" duration="121000" />
-      <workItem from="1675567896485" duration="17141000" />
+      <workItem from="1675567896485" duration="23230000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1671262163392</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675610574185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BitMap, 29">
+      <created>1675672865226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672865227</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -317,7 +324,8 @@
     <MESSAGE value="first test" />
     <MESSAGE value="test for mac" />
     <MESSAGE value="2, 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2, 21" />
+    <MESSAGE value="BitMap, 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="BitMap, 29" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
