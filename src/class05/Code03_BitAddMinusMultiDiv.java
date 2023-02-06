@@ -66,5 +66,11 @@ public class Code03_BitAddMinusMultiDiv {
 			return div(a, b);
 		}
 	}
+	public static void main(String[] args) {
+		System.out.println(add(2, 5));
+		System.out.println(minus(2, 5));
+		// System.out.println(multiple(2, 5));
+		System.out.println(divide(-2147483648, -1));
 
+	}
 }

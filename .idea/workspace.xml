@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad13a23-7011-4bc3-b17b-3b3241644ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/elementary04/Code07_MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary05/Code01_BitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elementary05/Code02_BitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forTest/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elementary04/Code06_AddTwoNumList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elementary04/Code06_AddTwoNumList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class05/Code03_BitAddMinusMultiDiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class05/Code03_BitAddMinusMultiDiv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,13 +130,13 @@
       <recent name="C:\Users\Elizabeth\JavaProjects\AlgorithmPractice\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code06_AddTwoNumList">
-    <configuration name="Code01_randTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary02.Code01_randTest" />
+  <component name="RunManager" selected="Application.Code02_BitOperation">
+    <configuration name="Code01_BitMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elementary05.Code01_BitMap" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary02.*" />
+          <option name="PATTERN" value="elementary05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_BSLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary03.Code02_BSLeft" />
+    <configuration name="Code01_BitMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.Code01_BitMap1" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary03.*" />
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code02_rand2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary02.Code02_rand2" />
+    <configuration name="Code02_BitOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elementary05.Code02_BitOperation" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary02.*" />
+          <option name="PATTERN" value="elementary05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code03_equalReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary02.Code03_equalReturn" />
+    <configuration name="Code03_BitAddMinusMultiDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05.Code03_BitAddMinusMultiDiv" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary02.*" />
+          <option name="PATTERN" value="class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code06_AddTwoNumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elementary04.Code06_AddTwoNumList" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forTest.Test1" />
       <module name="AlgorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="elementary04.*" />
+          <option name="PATTERN" value="forTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +197,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Code01_randTest" />
-      <item itemvalue="Application.Code02_rand2" />
-      <item itemvalue="Application.Code03_equalReturn" />
-      <item itemvalue="Application.Code02_BSLeft" />
-      <item itemvalue="Application.Code06_AddTwoNumList" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Code01_BitMap" />
+      <item itemvalue="Application.Code01_BitMap1" />
+      <item itemvalue="Application.Code02_BitOperation" />
+      <item itemvalue="Application.Code03_BitAddMinusMultiDiv" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Code06_AddTwoNumList" />
-        <item itemvalue="Application.Code02_BSLeft" />
-        <item itemvalue="Application.Code03_equalReturn" />
-        <item itemvalue="Application.Code02_rand2" />
-        <item itemvalue="Application.Code01_randTest" />
+        <item itemvalue="Application.Code02_BitOperation" />
+        <item itemvalue="Application.Code03_BitAddMinusMultiDiv" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Code01_BitMap" />
+        <item itemvalue="Application.Code01_BitMap1" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +227,7 @@
       <workItem from="1671261593312" duration="3321000" />
       <workItem from="1671265429739" duration="17080000" />
       <workItem from="1675567747548" duration="121000" />
-      <workItem from="1675567896485" duration="6752000" />
+      <workItem from="1675567896485" duration="17141000" />
     </task>
     <task id="LOCAL-00001" summary="first test">
       <created>1671262163392</created>
@@ -248,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675606801331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2, 21">
+      <created>1675610574185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675610574185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -307,7 +316,8 @@
     </ignored-roots>
     <MESSAGE value="first test" />
     <MESSAGE value="test for mac" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for mac" />
+    <MESSAGE value="2, 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2, 21" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
