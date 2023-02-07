@@ -3,7 +3,7 @@ package elementary06;
 /**
  * @author ：Juli
  * @date ： 2023/2/6 6:26 PM
- * @description：23.判断两棵树是否完全相等
+ * @description：100.判断两棵树是否完全相等
  * @modifiedBy ：
  * @version: 1.0.0
  */
