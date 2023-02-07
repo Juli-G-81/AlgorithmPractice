@@ -3,7 +3,7 @@ package elementary07;
 /**
  * @author ：Juli
  * @date ： 2023/2/7 12:43 PM
- * @description：110 判断是否为平衡搜索二叉树
+ * @description：110 判断是否为平衡二叉树
  * @modifiedBy ：
  * @version: 1.0.0
  */
