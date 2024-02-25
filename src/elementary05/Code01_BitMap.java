@@ -43,6 +43,8 @@ public class Code01_BitMap {
         System.out.println("测试开始！");
         int max = 10000;
         BitMap bitMap = new BitMap(max);
+        System.out.println((2 + 64) >> 6);
+
         HashSet<Integer> set = new HashSet<>();
         int testTime = 10000000;
         for (int i = 0; i < testTime; i++) {
